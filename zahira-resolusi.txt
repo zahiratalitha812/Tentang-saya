@@ -1,5 +1,0 @@
-Halo pak, salam kenal nama saya zahira dari Nganjuk
-
-Resolusi saya :
-- membuat website menggunakan framework javastript
-- bekerja di start-up
